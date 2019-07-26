@@ -1,0 +1,49 @@
+{ "GeeksForGeeks" : {
+"Advanced-Data-Structure" :
+{
+    "AA Trees | Set 1 (Introduction)": "https://www.geeksforgeeks.org/aa-trees-set-1-introduction/",
+    "AVL Tree | Set 1 (Insertion)": "https://www.geeksforgeeks.org/avl-tree-set-1-insertion/"
+},
+"Analysis" :
+{
+    "A Time Complexity Question": "https://www.geeksforgeeks.org/a-time-complexity-question/",
+    "Advanced master theorem for divide and conquer recurrences": "https://www.geeksforgeeks.org/advanced-master-theorem-for-divide-and-conquer-recurrences/",
+    "Algorithm Practice Question for Beginners | Set 1": "https://www.geeksforgeeks.org/algorithm-practice-question-beginners-set-1/",
+    "Amortized analysis for increment in counter": "https://www.geeksforgeeks.org/amortized-analysis-increment-counter/",
+    "An interesting time complexity question": "https://www.geeksforgeeks.org/interesting-time-complexity-question/"
+},
+"Appdynamics" :
+{
+    "Appdynamics Internship Interview Experience": "https://www.geeksforgeeks.org/appdynamics-internship-interview-experience/",
+    "AppDynamics Interview Experience": "https://www.geeksforgeeks.org/appdynamics-interview-experience/"
+},
+"Backtracking" :
+{
+    "Introduction": "https://www.geeksforgeeks.org/backtracking-introduction/",
+    "The Knight's tour problem": "https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/",
+    "Fill two instances of all numbers from 1 to n in a specific way": "https://www.geeksforgeeks.org/fill-two-instances-numbers-1-n-specific-way/",
+    "Print all paths from a given source to a destination": "https://www.geeksforgeeks.org/find-paths-given-source-destination/",
+    "Print all possible paths from top left to bottom right of a mXn matrix": "https://www.geeksforgeeks.org/print-all-possible-paths-from-top-left-to-bottom-right-of-a-mxn-matrix/",
+    "Write a  program to print all permutations of a given string": "https://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string/",
+    "Given an array A[] and a number x, check for pair in A[] with sum as x": "https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/"
+},
+"C-Arrays" :
+{
+    "1’s and 2’s complement of a Binary Number": "https://www.geeksforgeeks.org/1s-2s-complement-binary-number/",
+    "A Boolean Matrix Question": "https://www.geeksforgeeks.org/a-boolean-matrix-question/",
+    "A Product Array Puzzle": "https://www.geeksforgeeks.org/a-product-array-puzzle/",
+    "A data structure for n elements and O(1) operations": "https://www.geeksforgeeks.org/data-structure-n-elements-o1-operations/",
+    "A permutation where each element indicates either number of elements before or after it": "https://www.geeksforgeeks.org/a-permutation-where-each-element-indicates-either-number-of-elements-before-or-after-it/",
+    "A product array puzzle | Set 2 (O(1) Space)": "https://www.geeksforgeeks.org/product-array-puzzle-set-2-o1-space/",
+    "k-th smallest absolute difference of two elements in an array": "https://www.geeksforgeeks.org/k-th-smallest-absolute-difference-two-elements-array/"
+},
+"Greedy" :
+{
+    "Max Flow Problem Introduction": "https://www.geeksforgeeks.org/max-flow-problem-introduction/"
+},
+"Uber" :
+{
+    "Uber Interview Experience (On Campus for Internship 2018-19)": "https://www.geeksforgeeks.org/uber-interview-experience-on-campus-for-internship-2018-19/",
+    "Uber India Interview Experience | Set 1 (Off-Campus for SDE 1)": "https://www.geeksforgeeks.org/uber-india-interview-experience-set-1-off-campus-sde-1/"
+}
+} }
